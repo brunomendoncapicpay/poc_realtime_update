@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1048822037386",
+    "project_id": "poc-realtime-update",
+    "storage_bucket": "poc-realtime-update.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1048822037386:android:9a03d44da933008986a673",
+        "android_client_info": {
+          "package_name": "com.brunomendonca.mylibrary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1048822037386-gbt4jkcjdm3qarrfstvgok559l3mep2j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],e
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0AQ-Nrl6u3-fNff7jok9T5HG5X0OMgrs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1048822037386-gbt4jkcjdm3qarrfstvgok559l3mep2j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
